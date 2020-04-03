@@ -13,8 +13,8 @@ https://www.androidcentral.com/adding-custom-ringtones-and-sounds-your-android
 
 In all cases:
 
-Step 1: Copy all the MP3 files to your phones \ringtone folder.
-This requires connecting your phone to a PC for data access, select internal memory, and browse to the ringtones folder.
+Step 1: Copy all the MP3 files to your phones \ringtone folder AND \notifications folder.
+This requires connecting your phone to a PC for data access, select internal memory, and browse to the folder.
 
 Step 2: Reboot your phone.
 This makes sure it re-scans the ringtones folder.
@@ -28,3 +28,4 @@ Source samples original created using https://ttsmp3.com/ set for Joanna voice.
 
 Created, cropped, normalized, tagged, organized and posted by Andrew Bedno - http://AndrewBedno.com
 
+Mirrored at https://github.com/Bedno/Spoken_Notifications
