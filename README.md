@@ -21,7 +21,7 @@ Step 4: Set apps: Settings > Notifications > individually open each app's option
 
 ===========================================
 
-Phrases include: Alarm, Alert, Bank, BedTime, BreakTime, Cancel, DangerDanger, DinnerTime, Done, Email, Error, Event, Facebook, FullyCharged, GoGoGoGo, GoodMorning, Hello, Insty, LowBattery, LunchTime, Match, Message, Messenger, Money, Notice, OK, PayPal, PhoneCall, React, Ready, Reminder, Signal, SnackTime, TextMessage, TimesUp, Tinder, Tweet, Twitter, VoiceMail, WakeUp, Warning, Weather, YogaTime
+Phrases include: Alarm, Alert, Bank, BedTime, BreakTime, Cancel, DangerDanger, DinnerTime, Done, Email, Error, Event, Facebook, FullyCharged, GetReady, GoGoGoGo, GoodMorning, Hello, Insty, LowBattery, LunchTime, Match, Message, Messenger, Money, Notice, OK, PayPal, PhoneCall, React, Ready, Reminder, Signal, SnackTime, TextMessage, TimesUp, Tinder, Tweet, Twitter, VoiceMail, WakeUp, Warning, Weather, YogaTime
 
 Source samples original created using https://ttsmp3.com/ set for Joanna voice.
 
